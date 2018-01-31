@@ -31,6 +31,10 @@
 /* Camp */
 /* Pink */
 /* Grass */
+
+@import url(https://fonts.googleapis.com/earlyaccess/notosanstc.css);
+@import url(https://fonts.googleapis.com/earlyaccess/cwtexyen.css);
+
 .fontcolor-regular, .fontcolor-regular a {
   color: #333; }
 
@@ -298,102 +302,102 @@
 /* Headings Fonts variables */
 /* Heading font one */
 .font-accident-one-bold {
-  font-family: Novecentosanswide-Bold, sans-serif;
+  font-family: 'cwTeXYen', sans-serif;
   font-weight: normal;
   font-style: normal; }
 
 .font-accident-one-book {
-  font-family: Novecentosanswide-Book, sans-serif;
+  font-family: 'cwTeXYen', sans-serif;
   font-weight: normal;
   font-style: normal; }
 
 .font-accident-one-demibold {
-  font-family: Novecentosanswide-DemiBold, sans-serif;
+  font-family: 'cwTeXYen', sans-serif;
   font-weight: normal;
   font-style: normal; }
 
 .font-accident-one-light {
-  font-family: Novecentosanswide-Light, sans-serif;
+  font-family: 'cwTeXYen', sans-serif;
   font-weight: normal;
   font-style: normal; }
 
 .font-accident-one-medium {
-  font-family: Novecentosanswide-Medium, sans-serif;
+  font-family: 'cwTeXYen', sans-serif;
   font-weight: normal;
   font-style: normal; }
 
 .font-accident-one-normal {
-  font-family: Novecentosanswide-Normal, sans-serif;
+  font-family: 'cwTeXYen', sans-serif;
   font-weight: normal;
   font-style: normal; }
 
 /* Heading font two */
 .font-accident-two-normal {
-  font-family: "Georgia", serif;
+  font-family: 'cwTeXYen', sans-serif;
   font-style: normal; }
 
 .font-accident-two-oblique {
-  font-family: "Georgia", serif;
+  font-family: 'cwTeXYen', sans-serif;
   font-style: oblique; }
 
 .font-accident-two-bold {
-  font-family: "Georgia", serif;
+  font-family: 'cwTeXYen', sans-serif;
   font-weight: bold; }
 
 .font-accident-two-bold-italic {
-  font-family: "Georgia", serif;
+  font-family: 'cwTeXYen', sans-serif;
   font-weight: bold;
   font-style: oblique; }
 
 /* Regular font */
 .font-regular-light {
-  font-family: "Oxygen", sans-serif;
+  font-family: 'cwTeXYen', sans-serif;
   font-weight: 400;
   font-style: normal; }
 
 .font-regular-normal {
-  font-family: "Oxygen", sans-serif;
+  font-family: 'cwTeXYen', sans-serif;
   font-weight: 400;
   font-style: normal; }
 
 .font-regular-bold {
-  font-family: "Oxygen", sans-serif;
+  font-family: 'cwTeXYen', sans-serif;
   font-weight: 700;
   font-style: normal; }
 
 /* Headings */
 h1 {
-  font-family: Novecentosanswide-Light, sans-serif;
+  font-family: 'cwTeXYen', sans-serif;
   font-size: 60px;
   font-weight: normal;
   font-style: normal; }
 
 h2 {
-  font-family: Novecentosanswide-Normal, sans-serif;
+  font-family: 'cwTeXYen', sans-serif;
   font-size: 36px;
   font-weight: normal;
   font-style: normal; }
 
 h3 {
-  font-family: Novecentosanswide-Medium, sans-serif;
+  font-family: 'cwTeXYen', sans-serif;
   font-size: 28px;
   font-weight: normal;
   font-style: normal; }
 
 h4 {
-  font-family: Novecentosanswide-Medium, sans-serif;
+  font-family: 'cwTeXYen', sans-serif;
   font-size: 24px;
   font-weight: normal;
   font-style: normal; }
 
 h5 {
-  font-family: Novecentosanswide-Medium, sans-serif;
+  font-family: 'cwTeXYen', sans-serif;
   font-size: 21px;
   font-weight: normal;
   font-style: normal; }
 
 h6 {
-  font-family: Novecentosanswide-Bold, sans-serif;
+  font-family: 'cwTeXYen', sans-serif;
   font-size: 16px;
   font-weight: normal;
   font-style: normal; }
